@@ -119,10 +119,6 @@ _本项目是基于[one-api](https://github.com/songquanpeng/one-api)二次开�
 
 感谢以上项目的作者和贡献者
 
-## 交流群
-
-<img src="https://github.com/user-attachments/assets/d1395dac-bc97-481d-af40-ac47e6a00158" width="300">
-
 ## 其他
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=689214770" target="_blank" style="display: block" align="center">
