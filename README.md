@@ -39,8 +39,7 @@ _本项目是基于[one-api](https://github.com/songquanpeng/one-api)二次开�
 
 **如果发现缺少新模型，请在`后台-模型价格-更新价格`中更新新增的模型**
 
-[演示网站](https://one-hub.xiao5.info/)
-[文档](https://one-hub-doc.vercel.app/)
+[演示网站](https://aiqianji.cn/)
 
 </div>
 
